@@ -1,1 +1,2 @@
-The script Hello World
+#!/bin/bash
+echo “Hello, World”
